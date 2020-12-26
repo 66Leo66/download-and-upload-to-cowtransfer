@@ -1,2 +1,1 @@
-https://download.truenas.com/TrueNAS-SCALE-Angelfish-ALPHA/20.10-ALPHA/TrueNAS-SCALE-20.10-ALPHA.iso
-https://download.freenas.org/12.0/STABLE/RELEASE/x64/TrueNAS-12.0-RELEASE.iso
+https://nchc.dl.sourceforge.net/project/opengapps/arm/20200927/open_gapps-arm-10.0-tvstock-20200927.zip
