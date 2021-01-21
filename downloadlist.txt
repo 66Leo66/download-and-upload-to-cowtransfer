@@ -1,1 +1,1 @@
-https://minemakers.net/dl-26/Shulker%20Rush%20II%20-%201.16.zip
+https://dist.ipfs.io/ipget/v0.6.0/ipget_v0.6.0_linux-arm64.tar.gz
